@@ -34,3 +34,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Genestealer/
 * [hoxframework](https://hoxframework.com.hr/?p=516)
 * [ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
 * [Psiphon](https://s3.amazonaws.com/0ubz-2q11-gi9y/en.html)
+* [geckodriver](https://github.com/mozilla/geckodriver)
