@@ -29,7 +29,7 @@ Python
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Genestealer/Automated-Voting-Bot/blob/main/LICENSE.md) for more information.
 
-## Acknowledgements
+## Acknowledgements / Sources
 
 * [hoxframework](https://hoxframework.com.hr/?p=516)
 * [ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
