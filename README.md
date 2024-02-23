@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Genestealer/Automated-Voting-Bot/total) ![Contributors](https://img.shields.io/github/contributors/Genestealer/Automated-Voting-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Genestealer/Automated-Voting-Bot) ![License](https://img.shields.io/github/license/Genestealer/Automated-Voting-Bot) 
+![Contributors](https://img.shields.io/github/contributors/Genestealer/Automated-Voting-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Genestealer/Automated-Voting-Bot) ![License](https://img.shields.io/github/license/Genestealer/Automated-Voting-Bot) 
 
 
 
