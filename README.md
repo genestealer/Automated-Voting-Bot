@@ -1,13 +1,9 @@
-<br/>
-<p align="center">
-  <h3 align="center">Automated Webpage Voting Bot</h3>
 
-  <p align="center">
-    A bot that changes IP every time it votes (selenium, python, psiphon)
-    <br/>
-    <br/>
-  </p>
-</p>
+
+# Automated Webpage Voting Bot
+A bot that changes IP every time it votes (selenium, python, psiphon)
+
+
 
 ![Contributors](https://img.shields.io/github/contributors/Genestealer/Automated-Voting-Bot?color=dark-green) ![Issues](https://img.shields.io/github/issues/Genestealer/Automated-Voting-Bot) ![License](https://img.shields.io/github/license/Genestealer/Automated-Voting-Bot) 
 
